@@ -1,9 +1,8 @@
 import React from 'react';
-import './App.css';
 
-function App() {
+function App2() {
   return (
-    <main className="App">
+    <div className="App">
       <header className="App-header">
         Navbar
       </header>
@@ -13,7 +12,7 @@ function App() {
       <footer>
         Footer
       </footer>
-    </main>
+    </div>
   )
 }
-export default App;
+export default App2;
